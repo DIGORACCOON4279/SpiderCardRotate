@@ -1,4 +1,4 @@
-![image](https://github.com/DIGORACCOON4279/SpiderCardRotate/assets/88150970/fe790351-c99d-4691-8aad-8b56683de6a8)</br>
+![image](https://github.com/user-attachments/assets/6b12b5e6-1dab-463e-b571-a196be904fe6) </br>
 
 
 🚀Link [SpiderCardRotate](https://spider-card-rotate.vercel.app/)
